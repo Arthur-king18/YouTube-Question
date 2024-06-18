@@ -1,12 +1,12 @@
-Order date: 03.11.2023
+## Order date: 03.11.2023
 
-User requirements:
+## User requirements:
 
 The client's company needed a user-friendly script that could extract 
 information from YouTube videos. They weren't interested in a basic 
 AI-powered summarization, as it often misses crucial details. 
 
-My solution:
+## My solution:
 
 I came up with the idea of making a basic terminal script that lets you 
 paste a YouTube link. After that, you can ask questions, and the script 
@@ -18,7 +18,7 @@ found the information.
 Thanks to [Bobby Tectalabyss](https://x.com/tectalabyss) for 
 permission to publish open source code.
 
-Review by Bobby:
+## Review by Bobby:
 
 I rarely write reviews, but this one is necessary. I was searching for a 
 solution for a long time and when I met Arthur, I found it. Initially, I 
